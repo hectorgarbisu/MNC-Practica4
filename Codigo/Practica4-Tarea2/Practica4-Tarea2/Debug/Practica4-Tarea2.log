@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 06/10/2015 11:35:26.
+     1>Proyecto "c:\Users\usuario\documents\visual studio 2013\Projects\Practica4-Tarea2\Practica4-Tarea2\Practica4-Tarea2.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt P4T2.cpp
+         P4T2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\usuario\documents\visual studio 2013\Projects\Practica4-Tarea2\Debug\Practica4-Tarea2.exe" /INCREMENTAL /NOLOGO mkl_intel_c_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\usuario\documents\visual studio 2013\Projects\Practica4-Tarea2\Debug\Practica4-Tarea2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\usuario\documents\visual studio 2013\Projects\Practica4-Tarea2\Debug\Practica4-Tarea2.lib" /MACHINE:X86 Debug\P4T2.obj
+         Practica4-Tarea2.vcxproj -> c:\users\usuario\documents\visual studio 2013\Projects\Practica4-Tarea2\Debug\Practica4-Tarea2.exe
+     1>Compilación del proyecto terminada "c:\Users\usuario\documents\visual studio 2013\Projects\Practica4-Tarea2\Practica4-Tarea2\Practica4-Tarea2.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.80
